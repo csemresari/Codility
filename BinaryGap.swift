@@ -1,5 +1,3 @@
-import Foundation
-
 // Find longest sequence of zeros in binary representation of an integer.
 
 public func solution(_ N : Int) -> Int {
